@@ -22,7 +22,7 @@ display LCD como saídas. O sistema foi desenvolido e implementado em FPGA, usan
  > * [Nágila Rocha](https://github.com/nagilarocha/)
  > * [Gilvanei bispo](https://github.com/gilvaneibispo/)
  >
-  >> sobre orientação da professora  **Ana Cláudio Fiorin**
+  >> sobre orientação da professora  **Ana Cláudia Fiorin**
  >
 
 ## Como uilizar 
