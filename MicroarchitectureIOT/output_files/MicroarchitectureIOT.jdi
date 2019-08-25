@@ -1,6 +1,6 @@
 <sld_project_info>
   <project>
-    <hash md5_digest_80b="d395809f8c3abcd82465"/>
+    <hash md5_digest_80b="45cb627a5f8c78906aa8"/>
   </project>
   <file_info>
     <file device="EP4CE30F23C7" path="MicroarchitectureIOT.sof" usercode="0xFFFFFFFF"/>
@@ -144,7 +144,7 @@
   <sld_infos>
     <sld_info hpath="" name="">
       <assignment_values>
-        <assignment_value text="QSYS_NAME architectureIOT HAS_SOPCINFO 1 GENERATION_ID 1564359970"/>
+        <assignment_value text="QSYS_NAME architectureIOT HAS_SOPCINFO 1 GENERATION_ID 1564361469"/>
       </assignment_values>
       <parameters/>
     </sld_info>
