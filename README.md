@@ -18,6 +18,7 @@ display LCD como saídas. O sistema foi desenvolido e implementado em FPGA, usan
 
 ## Ferramamentas ultilizadas 
  > * [Altera Quartus II 13.0 service Pack 1](http://fpgasoftware.intel.com/13.0sp1/)
+ >* [Altera Quartus II 16.1](http://fpgasoftware.intel.com/16.1/)
  > * Placa Mercurio IV da [Familia Cyclone IV](https://www.intel.com/content/www/us/en/products/programmable/fpga/cyclone-iv.html) com o Chip EP4CE30F23C7.
  > * Módulo[ Esp8266](https://www.espressif.com/en/products/hardware/esp8266ex/overview).
  > * Software [ Altera Monitor Program](https://www.intel.com/content/www/us/en/programmable/support/training/university/materials-software.html).
@@ -33,7 +34,7 @@ display LCD como saídas. O sistema foi desenvolido e implementado em FPGA, usan
  >
 
 ## Como uilizar 
- > 1. Abrir o Altera Quartus II 13.0 SP1;
+ > 1. Abrir o Altera Quartus II 13.0 SP1; 
  > 1. Em File -> Open Project;
  > 1. Selecionar a Microarchitecture;
  > 1. Abrir o arquivo microarquiteturaGp3;
@@ -42,3 +43,5 @@ display LCD como saídas. O sistema foi desenvolido e implementado em FPGA, usan
  > 1. Abrir o Altera Monitor;
  > 1. Abrir o arquivo teste.ncf;
  > 1. Clicar em Actions -> Compile & Load.
+
+>>### Obs.:O jogo pong foi desenvolvido no altera quartus 16.1 e altera  monitor 16.1 então para utilizar é necessário abrir o altera quartus 16.1 e não altera quartus 13.0 service Pack 1.
